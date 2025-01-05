@@ -1,4 +1,18 @@
 {
     "editor.formatOnSave": false,
-    "editor.formatOnSaveMode": "modificationsIfAvailable"
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    
+    
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.profiles.windows": {
+          "Command Prompt": {
+            "path": "C:\\Windows\\System32\\cmd.exe"
+          }
+        }
+      
+
+
 }
+
+
+
